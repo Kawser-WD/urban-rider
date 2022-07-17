@@ -1,0 +1,13 @@
+.form-container{
+    padding: 30px;
+    width: 350px;
+  }
+
+.card{
+  background-color: #ecf0f1;
+  height: 350px;
+}
+
+  .detail{
+    margin-top: 150px;
+  }
